@@ -20,7 +20,8 @@ The Tournament Operator shall publish the following information by the specified
 |-------|------:|
 | 1st | $15,000 |
 | 2nd | $5,000 |
-| 3rd–4th | $1,500 each |
+| 3rd | $2,000 |
+| 4th | $1.000 |
 | 5th–8th | $500 each |
 
 **Additional compensation information**: None
